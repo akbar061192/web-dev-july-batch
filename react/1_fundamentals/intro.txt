@@ -1,0 +1,29 @@
+What is React?
+JS library for building user interfaces
+React is not a framework. It is just a library
+React is small and not complete for all solutions
+You need to depend on other 3rd party lib's to solve any other solutions
+
+
+Why React?
+Flexible
+Community support and Investment
+Peformance (React uses Virtual DOM)
+
+
+React- to create ui components
+ReactDOM -  take the components and paint/display/show in the ui
+
+
+React Components
+Nothing but a js function
+They are re-usable
+
+
+html --> created html template with elements
+js --> link the elements from html file and add event listeners or chaning the text of the html elements
+
+
+declarative approach --> tell me what i should do. I will do it for you with out any further instructions.
+
+JSX == > html in js
